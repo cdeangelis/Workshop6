@@ -1,4 +1,5 @@
 // Data goes here.
+//Read for Database Commit
 var initialData = {
   // The "user" collection. Contains all of the users in our Facebook system.
   "users": {
